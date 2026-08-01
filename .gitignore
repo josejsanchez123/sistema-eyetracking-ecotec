@@ -1,0 +1,12 @@
+tesis_env/
+videos/
+data/
+models/*.pkl
+__pycache__/
+*.pyc
+*.pyo
+log_correccion_completa*
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
